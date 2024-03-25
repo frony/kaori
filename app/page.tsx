@@ -25,7 +25,7 @@ export default function Home() {
             />
           </div>
           <div className="bg-amber-50 pl-8 pt-20 px-16 font-bold">
-            <h1 className={`mb-3 text-5xl pt-2`}>Kawori's</h1>
+            <h1 className={`mb-3 text-5xl pt-2`}>Kawori&lsquo;s</h1>
             <h1 className={`mb-3 text-4xl`}>Live Your Potential</h1>
           </div>
         </div>
